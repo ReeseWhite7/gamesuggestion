@@ -1,0 +1,22 @@
+[
+    {"title": "The Witcher 3: Wild Hunt", "genre": "RPG", "platform": "PC", "description": "An open-world RPG with rich storytelling and immersive world exploration."},
+    {"title": "Fortnite", "genre": "Action", "platform": "Console", "description": "A popular battle royale game where players fight to be the last one standing."},
+    {"title": "Minecraft", "genre": "Adventure", "platform": "PC", "description": "A sandbox game that allows players to build and explore virtual worlds."},
+    {"title": "League of Legends", "genre": "MOBA", "platform": "PC", "description": "A multiplayer online battle arena game with strategic team-based gameplay."},
+    {"title": "Among Us", "genre": "Party", "platform": "Mobile", "description": "A multiplayer game where players work together and identify impostors."},
+    {"title": "Hades", "genre": "Action", "platform": "PC", "description": "A roguelike dungeon crawler where players battle through the underworld."},
+    {"title": "Stardew Valley", "genre": "Simulation", "platform": "PC", "description": "A farming simulation game with RPG elements and rich character interactions."},
+    {"title": "Animal Crossing: New Horizons", "genre": "Simulation", "platform": "Console", "description": "A life simulation game where players create and manage their island."},
+    {"title": "Super Mario Odyssey", "genre": "Platformer", "platform": "Console", "description": "A platform adventure game featuring Mario on a quest to rescue Princess Peach."},
+    {"title": "Hollow Knight", "genre": "Metroidvania", "platform": "PC", "description": "An action-adventure game with exploration and platforming elements."},
+    {"title": "Celeste", "genre": "Platformer", "platform": "PC", "description": "A challenging platformer game with a heartfelt story about overcoming obstacles."},
+    {"title": "Doom Eternal", "genre": "Action", "platform": "PC", "description": "A fast-paced first-person shooter with intense combat and exploration."},
+    {"title": "Genshin Impact", "genre": "RPG", "platform": "Mobile", "description": "An open-world action RPG with elemental magic and exploration."},
+    {"title": "Rocket League", "genre": "Sports", "platform": "PC", "description": "A high-powered hybrid of arcade-style soccer and vehicular mayhem."},
+    {"title": "Apex Legends", "genre": "Battle Royale", "platform": "Console", "description": "A free-to-play battle royale game set in the Titanfall universe."},
+    {"title": "Overwatch", "genre": "Shooter", "platform": "PC", "description": "A team-based multiplayer shooter with diverse characters and abilities."},
+    {"title": "Red Dead Redemption 2", "genre": "Adventure", "platform": "Console", "description": "An open-world action-adventure game set in the Wild West."},
+    {"title": "Cyberpunk 2077", "genre": "RPG", "platform": "PC", "description": "An open-world RPG set in a dystopian future with deep character customization."},
+    {"title": "The Sims 4", "genre": "Simulation", "platform": "PC", "description": "A life simulation game where players create and control virtual people."},
+    {"title": "Valorant", "genre": "Shooter", "platform": "PC", "description": "A tactical first-person shooter with unique character abilities."}
+]
